@@ -18,7 +18,7 @@ assignees: ''
 
 #What you call it
 
-#Category (Gun, map, mechanics, vanity, etc.)
+#Category (Weapon, map, mechanics, vanity, etc.)
 
 #Two-sentence explanation
 
